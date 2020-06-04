@@ -1,16 +1,9 @@
   bui# Summary
 
-  * [游戏语音GVoice](README.md)
-  * [游戏研发](ch0/README.md)
-      * [游戏语音GVoice](ch0/GVoice.md)
-          * [产品简介](ch0/GVoice/README.md)
-              * [概述](ch0/GVoice/11.md)
-              * [功能](ch0/GVoice/12.md)
-              * [优势](ch0/GVoice/13.md)
-          * [计费说明](ch0/GVoice/2.md)
-      * [游戏存储Tcaplus](ch0/Tcaplus.md)
-      * [游戏更新Dolphin](ch0/Dolphin.md)
-      * [区服导航Maple](ch0/Maple.md)
-  * [游戏安全](ch1/README.md)
-      * [手游加固服务](ch0/ch01.md)
+  * [游戏语音GVoice](ch0/README.md)
+      * [产品简介](ch1/README.md)
+          * [概述](ch1/11.md)
+          * [功能](ch1/12.md)
+          * [优势](ch1/13.md)
+      * [计费说明](ch2/README.md)
  
