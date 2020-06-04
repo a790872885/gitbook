@@ -7,7 +7,7 @@
               * [概述](ch0/GVoice/GVoice.md)
               * [功能](ch0/GVoice/Tcaplus.md)
               * [优势](ch0/GVoice/Dolphin.md)
-          * [计费说明](ch0/GVoice/README.md)
+          * [计费说明](ch0/GVoice/README2.md)
       * [游戏存储Tcaplus](ch0/Tcaplus.md)
       * [游戏更新Dolphin](ch0/Dolphin.md)
       * [区服导航Maple](ch0/Maple.md)
